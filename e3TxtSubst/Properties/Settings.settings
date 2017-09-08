@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="e3TxtSubst.Properties" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="ExePath" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">C:\Program Files (x86)\CIM-Team\E3.series_2009\E3.series.exe</Value>
+    </Setting>
+    <Setting Name="ProcStartTimeout" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">4000</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
